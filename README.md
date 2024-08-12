@@ -9,7 +9,7 @@ Light/Dark Mode: Switch between light and dark mode for a comfortable user exper
 🛠️ Technology Stack
 Frontend & Backend: Flutter
 📦 APK Download
-You can download and install the APK from this link.
+You can download and install the APK from this link. https://drive.google.com/file/d/1sHgufF6QEoyP9Jc5Qp46D4szfysVubFI/view?usp=drive_link
 🚧 Status
 Current Status: In Development
 Ongoing improvements and new features are being added regularly.
